@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fa79e8d-a6be-4f45-b8e6-94a611b5bf8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-composer.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/backend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscampa/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscampa/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscampa/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscampa/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscampa/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscampa/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscampa/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscampa/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscampa/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscampa/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/api/campamento.api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/CampamentoCard/Campamento.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/CampamentoCard/CampamentoCard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/CampamentoList/CampamentoList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Navigation/Navigation.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/CampamentoFormPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/CampamentoPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/vite-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/tsconfig.node.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2rNBrS6SnfBU0SQjy9JEwUIcKqa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/dev/Buscampa/backend"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fa79e8d-a6be-4f45-b8e6-94a611b5bf8d" name="Changes" comment="" />
+      <created>1736389853840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736389853840</updated>
+    </task>
+    <servers />
+  </component>
+</project>
