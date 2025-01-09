@@ -9,10 +9,10 @@ export function CampamentoCard({campamento}: { campamento: Campamento }) {
         <div className="my-element" onClick={() => navigate(`/campamento/${campamento.id}`)}>
             <h1 className="titulo">{campamento.nombre}</h1>
             <p className="info">Iglesia: {campamento.iglesia}</p>
-            <p className="info">Precio: {campamento.precio}</p>
+            <p className="info">Precio: ${campamento.precio}</p>
             <p className="info">Fecha Desde: {new Date(campamento.fechaDesde).toLocaleDateString()}</p>
             <p className="info">Fecha Hasta: {new Date(campamento.fechaHasta).toLocaleDateString()}</p>
-            <p className="info">Descripcion: {campamento.descripcion}</p>
+            {campamento.descripcion && <p className="info">Descripcion: {campamento.descripcion}</p>}
         </div>
     );
 }

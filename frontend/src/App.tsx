@@ -2,6 +2,7 @@ import {BrowserRouter, Navigate, Route, Routes} from 'react-router-dom'
 import {CampamentoFormPage} from "./components/CampamentoFormPage/CampamentoFormPage.tsx";
 import {Navigation} from "./components/Navigation/Navigation.tsx";
 import {CampamentoList} from "./components/CampamentoList/CampamentoList.tsx";
+import "./App.css"
 
 function App() {
     return (
